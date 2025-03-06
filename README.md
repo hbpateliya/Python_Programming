@@ -1,2 +1,2 @@
-# Python_Programming
-# beginner, expert python code
+# Python Introducation, Variable, Operator
+# Data Type, basic code, string, variable
