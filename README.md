@@ -7,3 +7,4 @@
 6. Type Casting
 7. Variable_in_Python
 8. if condition
+9. String_Operations
